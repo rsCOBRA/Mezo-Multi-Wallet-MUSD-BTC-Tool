@@ -5,7 +5,7 @@ const readline = require("readline");
 // ================== CONFIG ==================
 const RPC_URL = "https://rpc.test.mezo.org";
 const CHAIN_ID = 31611;
-const MUSD = "0x118917a40FAF1CD7a13dB0Ef56C86De7973Ac503";
+const MUSD = "0x7B7c000000000000000000000000000000000001";
 
 const DRY_RUN = false;
 const WALLETS_FILE = "wallets.txt";
