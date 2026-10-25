@@ -1,0 +1,2 @@
+# Add one private key per line
+# 0xYourPrivateKeyHere
